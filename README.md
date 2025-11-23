@@ -1,0 +1,2 @@
+# CloudGatewayPlatformGo
+Python script
